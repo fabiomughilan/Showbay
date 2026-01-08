@@ -1,6 +1,5 @@
-# Groq AI Summarizer Service
+# Groq AI Summarizer Service - Fabio Mughilan
 
-Simple, opinionated README with quick start and examples for local development.
 
 Overview
 -- An async FastAPI service that sends user text to Groq's Llama 3 model and stores generated summaries in PostgreSQL.
